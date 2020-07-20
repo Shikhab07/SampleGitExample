@@ -1,1 +1,2 @@
-Hello Git
+Hello Git from master.
+This is the remote change.
