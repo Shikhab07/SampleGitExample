@@ -1,2 +1,2 @@
 Hello Git from master.
-This is the remote change.
+This is the remote change.This is pull example
